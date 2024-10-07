@@ -1,0 +1,4 @@
+namespace: argocd
+resources:
+  - argocd-ns.yaml
+  - https://raw.githubusercontent.com/argoproj/argo-cd/stable/manifests/core-install.yaml

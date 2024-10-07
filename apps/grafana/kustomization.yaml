@@ -1,0 +1,3 @@
+resources:
+  - grafana-ns.yaml
+  - grafana-helm-chart.yaml

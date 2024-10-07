@@ -1,0 +1,3 @@
+resources:
+  - nginx-ns.yaml
+  - nginx-bitnami-helm-chart.yaml

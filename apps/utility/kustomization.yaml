@@ -1,0 +1,3 @@
+resources:
+  - ebs-storageclass.yaml
+  - argocd-project.yaml
